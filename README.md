@@ -1,4 +1,4 @@
-<h2 align="center">Abedin Wahid</h1>
+<h1 align="center">Abedin Wahid</h1>
 <h4 align="center">Frontend Developer | React.js Enthusiast | Open to Opportunities</h1>
 
 
