@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Abedin Wahid
 
 #### Frontend Developer | React.js Enthusiast | Open to Opportunities
-
-![Frontend Developer | React.js Enthusiast | Open to Opportunities](/asset/cover.png)
+(/asset/cover.png)
+![Frontend Developer | React.js Enthusiast | Open to Opportunities]
 
 Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on creating seamless digital experiences, I'm actively pursuing opportunities to apply my skills in a professional environment. Open to collaboration and continuous growth in the dynamic field of web development. Let's connect and explore together! 🚀
 
