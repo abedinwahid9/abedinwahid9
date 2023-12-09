@@ -1,9 +1,12 @@
+![Frontend Developer | React.js Enthusiast | Open to Opportunities](/asset/cover.png)
+
+
 <h1 align="center">Abedin Wahid</h1>
 <h4 align="center">Frontend Developer | React.js Enthusiast | Open to Opportunities</h1>
 
 
 
-![Frontend Developer | React.js Enthusiast | Open to Opportunities](/asset/cover.png)
+
 
 Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on creating seamless digital experiences, I'm actively pursuing opportunities to apply my skills in a professional environment. Open to collaboration and continuous growth in the dynamic field of web development. Let's connect and explore together! 🚀
 
