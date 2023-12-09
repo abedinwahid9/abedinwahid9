@@ -21,9 +21,15 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abedinwahid9) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abedinwahid9/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abedin.wahid.5)
 
 
+
+
 ## Repositories Summery
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abedinwahid9&theme=dark)
+<div align="center">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abedinwahid9&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abedinwahid9&theme=dark)
+</div>
+
 
 ## Contributions Summery
 
