@@ -21,7 +21,7 @@ Skills:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abedinwahid9&theme=dark)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abedinwahid9&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abedinwahid9&theme=dark)
 
 
 
