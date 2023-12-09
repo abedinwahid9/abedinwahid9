@@ -20,11 +20,11 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
 ## Repositories Summery
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abedinwahid9&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=dark)
 
 
 
-![](https://api.githubtrends.io/user/svg/abedinwahid9/repos?time_range=three_months&theme=dark)
+
 
 
 <bt/>
