@@ -18,5 +18,5 @@ Skills:  REACT / JS / NODE/ ESPRESS.JS/ MONGODB/ TAILWIND/ BOOSTRAP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abedinwahid9)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abedinwahid9&show_icons=true&count_private=true)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
