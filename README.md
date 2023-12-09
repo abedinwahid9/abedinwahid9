@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Abedin Wahid
+<h2 align="center">Abedin Wahid</h1>
 
-#### Frontend Developer | React.js Enthusiast | Open to Opportunities
+<h4 align="center">Frontend Developer | React.js Enthusiast | Open to Opportunities</h1>
+
 
 ![Frontend Developer | React.js Enthusiast | Open to Opportunities](/asset/cover.png)
 
