@@ -1,9 +1,6 @@
-(https://media.licdn.com/dms/image/D5616AQHRXySh_RyCTA/profile-displaybackgroundimage-shrink_350_1400/0/1700421922958?e=1707350400&v=beta&t=i1ovvQysBuMMskFi_xX2DvTb26psc7M8YDaIAETJL2Y)
-
-
 ### Hi there 👋, my name is Abedin Wahid
 #### Frontend Developer | React.js Enthusiast | Open to Opportunities
-![Frontend Developer | React.js Enthusiast | Open to Opportunities]
+![Frontend Developer | React.js Enthusiast | Open to Opportunities](https://media.licdn.com/dms/image/D5616AQHRXySh_RyCTA/profile-displaybackgroundimage-shrink_350_1400/0/1700421922958?e=1707350400&v=beta&t=i1ovvQysBuMMskFi_xX2DvTb26psc7M8YDaIAETJL2Y)
 
 Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on creating seamless digital experiences, I'm actively pursuing opportunities to apply my skills in a professional environment. Open to collaboration and continuous growth in the dynamic field of web development. Let's connect and explore together! 🚀 
 
