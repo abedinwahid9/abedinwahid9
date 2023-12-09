@@ -24,7 +24,13 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
 ## Contributions Summery
 
+<center>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abedinwahid9&theme=dark)](https://git.io/streak-stats)
+
+</center>
+
+
 
 ## Repositories analysis
 
