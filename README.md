@@ -7,7 +7,7 @@
 
 Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on creating seamless digital experiences, I'm actively pursuing opportunities to apply my skills in a professional environment. Open to collaboration and continuous growth in the dynamic field of web development. Let's connect and explore together! 🚀
 
-Skills:
+## Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,tailwind,boostrap)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page.
@@ -17,8 +17,15 @@ Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abedinwahid9) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abedinwahid9/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abedin.wahid.5)
 
+
+## Repositories Summery
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abedinwahid9&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+
+
+
 ![](https://api.githubtrends.io/user/svg/abedinwahid9/repos?time_range=three_months&theme=dark)
+
 
 <bt/>
 
