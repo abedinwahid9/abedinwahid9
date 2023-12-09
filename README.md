@@ -33,9 +33,10 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
 ## Contributions Summery
 
-<center>
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abedinwahid9&theme=dark)](https://git.io/streak-stats)
+</div>
 
 </center>
 
@@ -43,4 +44,7 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
 ## Repositories analysis
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abedinwahid9&theme=dark)
+</div>
