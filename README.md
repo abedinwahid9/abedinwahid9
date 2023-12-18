@@ -20,7 +20,8 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
 [<img src='https://skillicons.dev/icons?i=github' alt='github' height='40' >](https://github.com/abedinwahid9)
 [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40' >](https://linkedin.com/in/abedinwahid)
-[![facebook]('https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook)')][https://www.facebook.com/abedin.wahid.5]
+[<img src='https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png' alt='linkedin' height='40' >](https://linkedin.com/in/abedinwahid)
+
 
 
 
