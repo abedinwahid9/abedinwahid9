@@ -18,9 +18,9 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about front-end web development
 
-[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40' >](https://github.com/abedinwahid9)
+[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40' >](https://github.com/abedinwahid9)" "
 [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40' >](https://linkedin.com/in/abedinwahid)
-[<img src='https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png' alt='linkedin' height='40' >](https://facebook.com/abedin.wahid.5)
+[<img src='https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/facebook.png' alt='faecbook' height='40' >](https://facebook.com/abedin.wahid.5)
 
 
 
