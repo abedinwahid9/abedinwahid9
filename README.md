@@ -54,6 +54,5 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abedinwahid9&theme=dark)
 </div>
 
-## Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?abedinwahid9=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
