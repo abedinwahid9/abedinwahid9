@@ -57,16 +57,10 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
 ## Repositorie Summery
 
-<div align="center" >
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abedinwahid9&show_icons=true&theme=dark" alt="Anurag's GitHub stats" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedinwahi9&layout=compact&theme=dark" alt="Top Langs" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abedinwahid9&layout=compact&theme=dark" alt="Top Langs" style="height: 200px;" />
 </div>
 
 
