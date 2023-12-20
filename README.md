@@ -59,6 +59,6 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abedinwahid9&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=9&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8.5&layout=compact)
 
 </div>
