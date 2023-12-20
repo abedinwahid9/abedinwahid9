@@ -57,7 +57,7 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
 ## Repositorie Summery
 
-<div align="center" height=100%>
+<div align="center" height="100%">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
