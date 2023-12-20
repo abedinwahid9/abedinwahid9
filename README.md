@@ -28,7 +28,7 @@ Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on c
 
 
 
-## Push Summery
+## Commit Summery
 <div align="center">
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abedinwahid9&theme=dark)
