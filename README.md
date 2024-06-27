@@ -8,7 +8,7 @@
 
 
 
-Enthusiastic React.js learner and aspiring Frontend Developer. With a focus on creating seamless digital experiences, I'm actively pursuing opportunities to apply my skills in a professional environment. Open to collaboration and continuous growth in the dynamic field of web development. Let's connect and explore together! 🚀
+Experienced Frontend Developer with almost 3 years expertise. I've skill on Tailwind CSS, Bootstrap, Material UI, JavaScript, React.js, Next.js, Redux toolkit, Api etc. I've knowledge in MERN stack and Restful Api. I'm deep learning of MERN. I'm always interest on exploring new technology. Day by Day coming new technology, I always try and how to adopt this new technology with easy way. I always ignored shortcut way, always try deep learning in fundamental. 🚀
 
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,tailwind,boostrap)](https://skillicons.dev)
