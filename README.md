@@ -36,13 +36,6 @@ Experienced Frontend Developer with almost 3 years expertise. I've skill on Tail
 </div>
 
 
-## Contributions Summery
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abedinwahid9)](https://git.io/streak-stats)>
-
-</center>
 
 
 
