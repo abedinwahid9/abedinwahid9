@@ -40,8 +40,7 @@ Experienced Frontend Developer with almost 3 years expertise. I've skill on Tail
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abedinwahid9&theme=dark)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abedinwahid9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </center>
 
