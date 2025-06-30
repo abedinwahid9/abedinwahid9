@@ -1,4 +1,4 @@
-![Frontend Developer | React.js Enthusiast | Open to Opportunities](/asset/cover.png)
+![Frontend Developer | React.js Enthusiast | Open to Opportunities]
 
 
 <h1 align="center">Abedin Wahid</h1>
